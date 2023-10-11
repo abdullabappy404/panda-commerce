@@ -15,7 +15,33 @@
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
     color: #fff;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     padding: 9px 25px;
     cursor: wait;
+}
+.cat1{
+    background-image: linear-gradient(to right, rgb(255, 184, 51) 0%, rgb(255, 166, 0) 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right, #eb4e8d 0%, #ff2c7d 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, rgb(70, 70, 255) 0%, rgb(23, 23, 255) 100%);
+}
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: lightgray 5px 5px 10px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+h5{ 
+    font-weight: 600;
 }
