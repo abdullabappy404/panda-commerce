@@ -42,6 +42,22 @@
     background-color: #fff;
     border-top: none;
 }
+h3{
+    font-size: 29px;
+    font-weight: 530;
+}
 h5{ 
     font-weight: 600;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+.form-control{
+    margin-bottom: 8px;
+}
+footer{
+    text-align: center;
 }
